@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcForKids</string>
+    <string name="main_error_message">The calculator app works only in landscape mode.</string>
+    <string name="sub_error_message">Please rotate your phone to display the app.</string>
+    <string name="ad_title">This is a simple ad</string>
+    <string name="reset">Reset</string>
+</resources>
